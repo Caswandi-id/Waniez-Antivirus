@@ -1,0 +1,11 @@
+Line 46: Class WANIEZ.UniDialog of control UniDialog1 was not a loaded control class.
+Line 49: The property name _ExtentX in UniDialog1 is invalid.
+Line 50: The property name _ExtentY in UniDialog1 is invalid.
+Line 51: The property name FileFlags in UniDialog1 is invalid.
+Line 52: The property name FolderFlags in UniDialog1 is invalid.
+Line 53: The property name FileCustomFilter in UniDialog1 is invalid.
+Line 54: The property name FileDefaultExtension in UniDialog1 is invalid.
+Line 55: The property name FileFilter in UniDialog1 is invalid.
+Line 56: The property name FileOpenTitle in UniDialog1 is invalid.
+Line 57: The property name FileSaveTitle in UniDialog1 is invalid.
+Line 58: The property name FolderMessage in UniDialog1 is invalid.
